@@ -1,0 +1,152 @@
+body{background-color: #538392;
+}
+
+.container {
+    position: relative;
+    width: 50%;
+  }
+
+.container .btn:hover {
+    background-color: black;
+  }
+
+
+.button{ width: 15%;
+    font-size: 20px;
+    font-weight: 650;
+    background-color: #80B9AD;
+    color: #ffffff;
+    border-radius: 20px;
+    padding: 5px;
+}
+
+header{background-color:#6295A2;
+    padding: 30px;
+    position: absolute;
+    right: 0;
+    left: 0;
+    top: 0;
+}
+
+footer{
+    background-color:#6295A2;
+    font-size: 20px;
+    padding: 15px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+p{
+    font-size: 30px;
+    font-weight: 500;
+    color: aliceblue;
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+d{
+    font-size: 20px;
+    font-weight: 400;
+    color: aliceblue;
+    position: relative;
+    top: 10px;
+    left: 100px;
+}
+
+.person{
+    border: 5px solid white; 
+    border-radius: 200px;
+}
+.pic{
+width: 300px;
+border-radius: 10px;
+}
+.wpic{
+    height: 310px;
+    border-radius: 10px;
+}
+.uwpic{
+    width: 400px;
+    border-radius: 10px;
+}
+
+.shpic{
+    border: 15px solid white; 
+    border-radius: 10px;
+}
+
+.inpb{
+    font-size: 20px;
+    font-weight: 500;
+    background-color: white;
+    color: rgb(0, 47, 255);
+    border-radius: 10px;
+}
+#P1{
+    position: absolute;
+    top: 80px;
+    left: 500px;
+    border: 10px solid white;
+}
+
+#P2{
+    
+    position: absolute;
+    top: 80px;
+    left: 1000px;
+    border: 10px solid white;
+}
+
+
+#P3{
+    position: absolute;
+    top: 600px;
+    left: 345px;
+    border: 10px solid white;
+}
+
+#P4{
+    position: absolute;
+    top: 600px;
+    left: 800px;
+    border: 10px solid white;
+}
+
+#P5{
+    position: absolute;
+    top: 600px;
+    left: 1250px;
+    border: 10px solid white;
+}
+
+#P6{
+    position: absolute;
+    top: 1100px;
+    left: 200px;
+    border: 10px solid white;
+}
+
+#P7{
+    position: absolute;
+    top: 1100px;
+    left: 600px;
+    border: 10px solid white;
+}
+
+#P8{
+    position: absolute;
+    top: 1100px;
+    left: 1000px;
+    border: 10px solid white;
+}
+
+#P9{
+    position: absolute;
+    top: 1100px;
+    left: 1400px;
+    border: 10px solid white;
+}
+
